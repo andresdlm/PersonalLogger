@@ -1,0 +1,25 @@
+# IDEs and editor-generated files
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Cache and compilation files
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.htmlcov/
+.coverage
+coverage.xml
+
+# Log and database files
+test.db
+log.txt
+
+# Docker-related files
+dist/
+site/
+.env
+Pipfile.lock
+
+# Environments
+env
